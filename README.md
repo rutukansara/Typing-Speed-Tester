@@ -1,7 +1,7 @@
 # Typing-Speed-Tester
 This is the 'Typing Speed Tester' project for the undergraduate-level Programming for Scientific Computing course.
 
-Libraries used:-
+##### Libraries used:-
 1. Tkinter - It is used for building a Graphic User Interface (GUI) based application.
 2. random - This module implements pseudo-random number generators for various distributions.
 3. timeit - This module provides a simple way to time small bits of Python code.
@@ -9,7 +9,7 @@ Libraries used:-
 5. Pillow (PIL) which is also called the Python Imaging Library adds image processing capabilities to the Python interpreter.
 6. datetime – This module supplies classes for manipulating dates and times
 
-Features:- 
+##### Features:- 
 1. Tricky Spelling – Challenge yourself with a test filled with tricky words, sure to make your fingers fumble.
 2. Paragraph typing – Think you can type a whole paragraph in under a minute? The typing speed tester might help you gain that speed you want.
 3. Easy/ Medium/ Difficult texts – The typing speed tester gives you paragraphs of random difficulties.
